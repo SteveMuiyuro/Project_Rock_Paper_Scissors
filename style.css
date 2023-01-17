@@ -54,9 +54,9 @@ body {
 
 #user_badge {
   position: absolute;
-  left: -45px;
+  left: -55px;
   font-size: 1rem;
-  padding: 5px;
+  padding: 15px;
   border-radius: 10px;
 }
 
@@ -64,8 +64,8 @@ body {
   position: absolute;
   right: -65px;
   font-size: 1rem;
-  padding: 5px;
-  right: -65px;
+  padding: 15px;
+  right: -75px;
   border-radius: 10px;
 }
 
